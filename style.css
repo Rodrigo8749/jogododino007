@@ -19,7 +19,7 @@
     position: absolute;
     bottom: 10;
     botton: 0;
-    left: 1000;
+    left: 50;
 }
 @keyframes jump{
     0% {bottom: 0;}
